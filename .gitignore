@@ -15,3 +15,6 @@ dist/
 /cookies/
 /public/robots.txt
 /public/sitemap.xml
+
+.vercel
+.env*
