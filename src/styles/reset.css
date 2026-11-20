@@ -1,0 +1,13 @@
+*,*::before,*::after{box-sizing:border-box}
+body{margin:0;min-inline-size:0}
+img{display:block;max-width:100%;height:auto}
+button,input,select,textarea{font:inherit}
+button{cursor:pointer}
+button:disabled{cursor:not-allowed}
+svg{display:block;flex:none}
+figure,ol,ul,blockquote,dl,dd{margin:0}
+a{color:inherit;text-underline-offset:.22em}
+:focus-visible{outline:3px solid #0075dd;outline-offset:4px}
+[id]{scroll-margin-top:105px}
+::selection{color:white;background:var(--blue)}
+main:focus{outline:0}

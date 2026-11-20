@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.vercel/
+.env*
+/.routes.json
+/index.html
+/servicios/
+/zonas/
+/trabajos/
+/sobre-nosotros/
+/contacto/
+/blog/
+/aviso-legal/
+/privacidad/
+/cookies/
+/public/robots.txt
+/public/sitemap.xml
